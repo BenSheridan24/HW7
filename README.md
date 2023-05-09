@@ -2,7 +2,7 @@
 
 # 📝 Description
 
-This is the README file for my GitHub repository. It contains information about my project, how to use it, and other important details.
+This is a homework assignment we completed in Digital Product Management class, working on making surveys for people to fill out. This type of practice was crucial for learning to complete our porfolio website later on in the semester. It was tough for me personally throughout the semester, but I was able to work hard and learn for the final project of the semester. 
 
 # 🚀 Getting Started
 
